@@ -1,0 +1,5 @@
+.DS_Store
+.config/nvim/plugged/*
+.config/nvm
+.config/oh-my-zsh/.oh-my-zsh
+.config/coc/extensions/*

@@ -1,0 +1,12 @@
+{
+  "diagnostics": {
+    "%2FUsers%2Fshash": [
+      ":"
+    ]
+  },
+  "commands": {
+    "%2FUsers%2Fshash": [
+      "python.set"
+    ]
+  }
+}
